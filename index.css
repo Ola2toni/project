@@ -65,7 +65,7 @@ div.main-section {
 div.first-image {
     width: 100%;
     height: 100vh;
-    background: radial-gradient(rgba(1, 331, 331, 0.6), rgba(3, 331, 331, 0.6)), url("/man-electrical-technician-working-switchboard-with-fuses.jpg");
+    background: radial-gradient(rgba(1, 331, 331, 0.6), rgba(3, 331, 331, 0.6)), url("man-electrical-technician-working-switchboard-with-fuses.jpg");
     background-position:bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +110,7 @@ div.gallery div.pictures {
 div.gallery div.pictures .image {
     width: 250px;
     height: 250px;
-    background: radial-gradient(rgba(2, 1, 1, 0.5), rgba(2, 1, 1, 1)), url("/man-electrical-technician-working-switchboard-with-fuses.jpg");
+    background: radial-gradient(rgba(2, 1, 1, 0.5), rgba(2, 1, 1, 1)), url("man-electrical-technician-working-switchboard-with-fuses.jpg");
     background-position:bottom;
     background-repeat: no-repeat;
     background-size: cover;
